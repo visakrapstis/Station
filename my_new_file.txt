@@ -1,6 +1,0 @@
-Hallo Git
-
-Hallo local
-
-Auch dir Hallo!!
-
