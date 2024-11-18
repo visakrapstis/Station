@@ -6,7 +6,7 @@ from langchain_community.document_loaders import TextLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 
 #   Initialize the Paper that you like
-loader = TextLoader("C:/Users/V. Stasiunaitis/Desktop/Projects/Data Science/Data Science. Projects/___FAISS_to_optimize/publication.txt")
+loader = TextLoader("[location].txt")
 documents = loader.load()
 
 #   Splitting the Document
