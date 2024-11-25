@@ -25,3 +25,7 @@ File Versuch 1 simple authentic ML Project. The model not suff. accurate, probab
 File Versuch 1.2 Simply promptengineering on sentiments
 
 File Versuch 2: Crypto-news vs Bitcoin data with Tensorflow, trying-out: Neuronal Net. But Accuracy also not good enough
+
+# Project Random 4. Google Apps
+in general good, data cleaning, nice visual insights.
+ML hard, as lables: paid / free chosen. MB thats the problem. To predict is very hard, because there are no reliable features on price.
