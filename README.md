@@ -1,3 +1,6 @@
+# Tutorials:
+include simply the revision on various topics. Please note that these are not for learning, but personal revision purposes, which means the tutorials might be fast paced, built after examples or without any explanations
+
 # Project Random 1. Face Recognition.
 critics
   fixes required:
