@@ -20,8 +20,7 @@ code working fine
 
 # Project Random 3. Crypto Sentiments
 File Versuch 1 simple authentic ML Project. The model not suff. accurate, probably because of data. 
-                                            In some cases very hard to understand the labels on the sentences
-                                            from the dataset..
+In some cases very hard to understand the labels on the sentences from the dataset..
 File Versuch 1.2 Simply promptengineering on sentiments
 
 File Versuch 2: Crypto-news vs Bitcoin data with Tensorflow, trying-out: Neuronal Net. But Accuracy also not good enough
@@ -29,3 +28,9 @@ File Versuch 2: Crypto-news vs Bitcoin data with Tensorflow, trying-out: Neurona
 # Project Random 4. Google Apps
 in general good, data cleaning, nice visual insights.
 ML hard, as lables: paid / free chosen. MB thats the problem. To predict is very hard, because there are no reliable features on price.
+
+# Project Random 5. Insurance
+simple regression-model with some visualisation
+
+# Project Random 6. Medical detection
+a small beautiful ML-project on dataset with around 40 deseases and various symptoms with accurate detection
