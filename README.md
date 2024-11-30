@@ -34,3 +34,11 @@ simple regression-model with some visualisation
 
 # Project Random 6. Medical detection
 a small beautiful ML-project on dataset with around 40 deseases and various symptoms with accurate detection
+
+# Project Random 7. Phone usage
+very small project, mainly getting to know the data. 
+Crittics: Data very clean and artificial, so that just some visualizations getting to know it and on purpose avoiding ML modeling 
+
+# Project Random 8. Personalities
+at first glance very interesting dataset, clean, so no preprocessing needed. 
+Some great ML possibilities. Various models tried, optimisation for accuracy openly left.
