@@ -42,3 +42,12 @@ Crittics: Data very clean and artificial, so that just some visualizations getti
 # Project Random 8. Personalities
 at first glance very interesting dataset, clean, so no preprocessing needed. 
 Some great ML possibilities. Various models tried, optimisation for accuracy openly left.
+
+# Project 9.: A Market Analysis Project as a Data Science Graduation-Research
+project not finished, but can be seen as an example. 
+include 
+1. updating and cleaning the data,
+2. data analysis,
+3. data science: manipulation of data and feature-engineering (creating an index for specific values)
+4. an example machine learning model.
+5. TODO: update ML Prediction Model, Introduce NNs, Manipulate the Index feature for better predictions
